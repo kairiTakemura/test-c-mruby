@@ -1,7 +1,8 @@
 def test a
-  return a * 2
+  puts a * 2
+  puts "hoge"
 end
 
 def switch key
-  
+  key
 end
